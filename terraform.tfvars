@@ -1,3 +1,3 @@
 # terraform.tfvars
 ssh_key = "myclasskey"
-tfstate_bucket = "mydevopakash"
+tfstate_bucket = "mydevopakash-1"
